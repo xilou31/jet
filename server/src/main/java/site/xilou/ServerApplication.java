@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author xilou31
  **/
 @SpringBootApplication
-public class RegistryApplication {
+public class ServerApplication {
     public static void main(String[] args) {
-        SpringApplication.run(RegistryApplication.class);
+        SpringApplication.run(ServerApplication.class);
     }
 }
