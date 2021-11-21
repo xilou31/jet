@@ -1,1 +1,1 @@
-# quic-rpc
+jet (quick steam) mean a rapid rpc framework base on reliable UDP protocol.
